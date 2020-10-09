@@ -1,0 +1,1 @@
+module.exports = { tokenKey: "This@is$a&test" }
